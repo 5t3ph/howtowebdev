@@ -1,6 +1,6 @@
-# Learn Web Development With Steph
+#  Learn How to Make a Website with Steph
 
-Are you interested in website development but have no idea where to start? Do you currently have little to no prior experience with web development? Than this video course is for you! 
+Are you interested in website development but have no idea where to start? Do you currently have little to no prior experience with web development? Then this video course is for you! 
 
 ## Things You'll Learn:
 
