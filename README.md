@@ -43,7 +43,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 3.  [HTML Basics #2: Essential Elements](https://youtu.be/j2daxQRmk0w)
 
-4.  HTML Basics #3: Semantic Structure
+4.  [HTML Basics #3: Semantic Structure](https://youtu.be/8wdjZTfnhXs)
 
 5.  HTML Basics #4: Blog Layout
 
@@ -74,6 +74,8 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 18.  CSS Basics #9: Responsive Design
 
 ### Capstone Website Project: Unicorn Space Tours
+
+[**Get early access >**](https://www.patreon.com/join/howtowebdev/checkout?rid=4390962) by becoming an Official Patron for $3/month!
 
 [Preview the final project >](https://unicorn-space-tours.netlify.com/)
 

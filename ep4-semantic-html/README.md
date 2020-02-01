@@ -1,8 +1,8 @@
 # Learn Web Development With Steph
 
-## Ep3: Essential HTML Element Tags
+## Ep4: Semantic HTML Structure
 
-This directory is a reference for Episode 3. [**Watch the lesson now >**](https://youtu.be/j2daxQRmk0w) or [review the article](https://dev.to/5t3ph/essential-html-element-tags-17mf).
+This directory is a reference for Episode 4. [**Watch the lesson now >**](https://youtu.be/8wdjZTfnhXs) or [review the article](https://dev.to/5t3ph/semantic-html-structure-1adn).
 
 [**Subscribe for access to all video courses >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/)
 
