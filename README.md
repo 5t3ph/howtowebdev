@@ -45,7 +45,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 4.  [HTML Basics #3: Semantic Structure](https://youtu.be/8wdjZTfnhXs)
 
-5.  HTML Basics #4: Blog Layout
+5.  [HTML Basics #4: Blog Layout](https://youtu.be/NWCO-XHpVP0)
 
 6.  HTML Basics #5: Card Layout
 
