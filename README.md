@@ -47,7 +47,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 5.  [HTML Basics #4: Blog Layout](https://youtu.be/NWCO-XHpVP0)
 
-6.  HTML Basics #5: Card Layout
+6.  [HTML Basics #5: Card Layout](https://youtu.be/k6MFToyik9c)
 
 7.  Accessibility Basics #1: Creating Interfaces for All Web Users
 
