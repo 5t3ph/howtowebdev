@@ -51,27 +51,25 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 7.  [Accessibility Basics #1: Creating Interfaces for All Web Users](https://youtu.be/F0iNy65L3_w)
 
-8.  CSS Basics #1: Create and Link a CSS File
+8.  CSS Basics #1: Intro to CSS / How to Write CSS
 
 9.  CSS Basics #2: Layout and the Box Model
 
-10.  CSS Basics #3: Defining a Style Rule
+10.  CSS Basics #3: Essential Properties
 
-11.  CSS Basics #4: Essential Properties
+11.  CSS Basics #4: Understanding the Cascade
 
-12.  CSS Basics #5: Understanding the Cascade
+12.  Accessibility Basics #2: The Importance of Structure
 
-13.  Accessibility Basics #2: The Importance of Structure
+13.  Accessibility Basics #3: Styling Considerations
 
-14.  Accessibility Basics #3: Styling Considerations
+14.  CSS Basics #5: Style a Blog Layout
 
-15.  CSS Basics #6: Style a Blog Layout
+15.  CSS Basics #6: Style a Card Layout
 
-16.  CSS Basics #7: Style a Card Layout
+16.  CSS Basics #7: Browser Compatibility
 
-17.  CSS Basics #8: Browser Compatibility
-
-18.  CSS Basics #9: Responsive Design
+17.  CSS Basics #8: Responsive Design
 
 ### Capstone Website Project: Unicorn Space Tours
 
