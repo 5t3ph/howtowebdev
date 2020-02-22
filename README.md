@@ -51,7 +51,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 7.  [Accessibility Basics #1: Creating Interfaces for All Web Users](https://youtu.be/F0iNy65L3_w)
 
-8.  CSS Basics #1: Intro to CSS / How to Write CSS
+8.  [CSS Basics #1: Intro to CSS / How to Write CSS](https://youtu.be/CUlPI1f_pPE)
 
 9.  CSS Basics #2: Layout and the Box Model
 
