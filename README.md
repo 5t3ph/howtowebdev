@@ -53,7 +53,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 8.  [CSS Basics #1: Intro to CSS / How to Write CSS](https://youtu.be/CUlPI1f_pPE)
 
-9.  CSS Basics #2: Layout and the Box Model
+9.  [CSS Basics #2: Layout and the Box Model](https://youtu.be/J3Pi4VyQCiI)
 
 10.  CSS Basics #3: Essential Properties
 
