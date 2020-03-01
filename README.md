@@ -55,7 +55,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 9.  [CSS Basics #2: Layout and the Box Model](https://youtu.be/J3Pi4VyQCiI)
 
-10.  CSS Basics #3: Essential Properties
+10.  [CSS Basics #3: Essential Properties and the Class Selector](https://youtu.be/P-xGz-jghTg)
 
 11.  CSS Basics #4: Understanding the Cascade
 
