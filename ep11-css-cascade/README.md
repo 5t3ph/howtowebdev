@@ -1,8 +1,8 @@
 # Learn Web Development With Steph
 
-## Ep10: CSS Essential Properties and the Class Selector
+## Ep11: Intro to the CSS Cascade - The "C" in CSS
 
-This directory is a reference for Episode 10. [**Watch the lesson now >**](https://youtu.be/P-xGz-jghTg) or [review the article](https://dev.to/5t3ph/css-essential-properties-and-the-class-selector-lib).
+This directory is a reference for Episode 11. [**Watch the lesson now >**](https://youtu.be/RhyaNtJ8Cpg) or [review the article](https://dev.to/5t3ph/intro-to-the-css-cascade-the-c-in-css-1kh0).
 
 [**Subscribe for access to all video courses >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/)
 

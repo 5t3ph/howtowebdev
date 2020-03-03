@@ -57,19 +57,17 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 10.  [CSS Basics #3: Essential Properties and the Class Selector](https://youtu.be/P-xGz-jghTg)
 
-11.  CSS Basics #4: Understanding the Cascade
+11.  [CSS Basics #4: Understanding the Cascade](https://youtu.be/RhyaNtJ8Cpg)
 
-12.  Accessibility Basics #2: The Importance of Structure
+12.  Accessibility Basics #2: Structure and Styling Considerations
 
-13.  Accessibility Basics #3: Styling Considerations
+13.  CSS Basics #5: Style a Blog Layout
 
-14.  CSS Basics #5: Style a Blog Layout
+14.  CSS Basics #6: Style a Card Layout
 
-15.  CSS Basics #6: Style a Card Layout
+15.  CSS Basics #7: Browser Compatibility
 
-16.  CSS Basics #7: Browser Compatibility
-
-17.  CSS Basics #8: Responsive Design
+16.  CSS Basics #8: Responsive Design
 
 ### Capstone Website Project: Unicorn Space Tours
 
