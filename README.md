@@ -59,7 +59,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 11.  [CSS Basics #4: Understanding the Cascade](https://youtu.be/RhyaNtJ8Cpg)
 
-12.  Accessibility Basics #2: Structure and Styling Considerations
+12.  [Accessibility Basics #2: Structure and Styling Considerations](https://youtu.be/Aif7KlEd1fk)
 
 13.  CSS Basics #5: Style a Blog Layout
 
