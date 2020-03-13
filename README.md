@@ -61,7 +61,7 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 12.  [Accessibility Basics #2: Structure and Styling Considerations](https://youtu.be/Aif7KlEd1fk)
 
-13.  CSS Basics #5: Style a Blog Layout
+13.  [CSS Basics #5: Style a Blog Layout](https://youtu.be/e6nBu5aFK8M)
 
 14.  CSS Basics #6: Style a Card Layout
 

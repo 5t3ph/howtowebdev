@@ -1,0 +1,60 @@
+body {
+	font-family: sans-serif;
+	color: #222;
+	margin: 0;
+}
+
+h1, h2, h3 {
+	margin: 0 0 0.35em;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+	margin: 0 0 1.15em;
+}
+
+p + h2 {
+	margin-top: 1.5em;
+}
+
+.container {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 24px;
+}
+
+header {
+	background-color: rebeccapurple;
+	color: #fff;
+}
+
+body > footer {
+	border-top: 2px solid rebeccapurple;
+}
+
+blockquote {
+		background: linear-gradient(45deg, #eddbff, transparent);
+		color: rebeccapurple;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1em;
+    border-radius: 4px; 
+}
+
+.img--align-left {
+	float: left;
+	margin: 0 16px 16px -20px;
+	border-radius: 50%;
+}
