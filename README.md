@@ -1,6 +1,6 @@
-#  Learn How to Make a Website with Steph
+# Learn How to Make a Website with Steph
 
-Are you interested in website development but have no idea where to start? Do you currently have little to no prior experience with web development? Then this video course is for you! 
+Are you interested in website development but have no idea where to start? Do you currently have little to no prior experience with web development? Then this video course is for you!
 
 ## Things You'll Learn:
 
@@ -23,13 +23,13 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 [**Support this project on Patreon >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/) and get early access to new videos!
 
-*This repository will be kept updated as new videos are released for the corresponding YouTube video series.*
+_This repository will be kept updated as new videos are released for the corresponding YouTube video series._
 
 ## Course Video Links
 
 > As the video course is updated, links to videos and corresponding source code will be updated with each title.
 
-*Subject to change slightly as videos are recorded*
+_Subject to change slightly as videos are recorded_
 
 [**View series schedule >**](https://thinkdobecreate.com/learnwebdev#schedule)
 
@@ -55,23 +55,23 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 9.  [CSS Basics #2: Layout and the Box Model](https://youtu.be/J3Pi4VyQCiI)
 
-10.  [CSS Basics #3: Essential Properties and the Class Selector](https://youtu.be/P-xGz-jghTg)
+10. [CSS Basics #3: Essential Properties and the Class Selector](https://youtu.be/P-xGz-jghTg)
 
-11.  [CSS Basics #4: Understanding the Cascade](https://youtu.be/RhyaNtJ8Cpg)
+11. [CSS Basics #4: Understanding the Cascade](https://youtu.be/RhyaNtJ8Cpg)
 
-12.  [Accessibility Basics #2: Structure and Styling Considerations](https://youtu.be/Aif7KlEd1fk)
+12. [Accessibility Basics #2: Structure and Styling Considerations](https://youtu.be/Aif7KlEd1fk)
 
-13.  [CSS Basics #5: Style a Blog Layout](https://youtu.be/e6nBu5aFK8M)
+13. [CSS Basics #5: Style a Blog Layout](https://youtu.be/e6nBu5aFK8M)
 
-14.  CSS Basics #6: Style a Card Layout
+14. [CSS Basics #6: Style a Card Layout](https://youtu.be/WtQMRsYWgzM)
 
-15.  CSS Basics #7: Browser Compatibility
+15. CSS Basics #7: Browser Compatibility
 
-16.  CSS Basics #8: Responsive Design
+16. CSS Basics #8: Responsive Design
 
 ### Capstone Website Project: Unicorn Space Tours
 
-[**Get early access >**](https://www.patreon.com/join/howtowebdev/checkout?rid=4390962) by becoming an Official Patron for $3/month!
+[**Get early access >**](https://www.patreon.com/join/howtowebdev/checkout?rid=4390962) by becoming an Official Patron for \$3/month!
 
 [Preview the final project >](https://unicorn-space-tours.netlify.com/)
 
@@ -93,19 +93,18 @@ At the course conclusion, you'll be able to build frontend experiences using mod
 
 9.  About Section Graphics
 
-10.  Tour Package Graphics
+10. Tour Package Graphics
 
-11.  Navigation
+11. Navigation
 
-12.  Booking Page and Form
+12. Booking Page and Form
 
-13.  Responsive Mobile View
+13. Responsive Mobile View
 
-14.  Animation
+14. Animation
 
-15.  Basics of Browser Testing / Automated Prefixing
+15. Basics of Browser Testing / Automated Prefixing
 
-16.  Version Control
+16. Version Control
 
-17.  Publish the Website
-
+17. Publish the Website

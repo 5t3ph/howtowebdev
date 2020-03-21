@@ -1,0 +1,68 @@
+body {
+  font-family: sans-serif;
+  color: green;
+}
+
+h1 {
+  color: rebeccapurple;
+  font-size: 40px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+h2 {
+  color: firebrick;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 0.85em;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+a:hover {
+  color: #1313a0;
+}
+
+.container {
+  border: 2px solid blueviolet;
+  background-color: #f9f9f9;
+  border-radius: 7px;
+  padding: 16px;
+}
+
+.container,
+.container h2 {
+  color: blueviolet;
+}
+
+.container--raised {
+  box-shadow: 3px 3px 8px 1px rgba(0,0,0,0.3);
+}
+
+.margin-top {
+  margin-top: 16px;
+}
+
+h2 {
+  color: palevioletred;
+}
