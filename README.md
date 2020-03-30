@@ -65,7 +65,7 @@ _Subject to change slightly as videos are recorded_
 
 14. [CSS Basics #6: Style a Card Layout](https://youtu.be/WtQMRsYWgzM)
 
-15. CSS Basics #7: Browser Compatibility
+15. [CSS Basics #7: Browser Compatibility](https://youtu.be/YqNUfZAesOY)
 
 16. CSS Basics #8: Responsive Design
 

@@ -1,8 +1,8 @@
 # Learn Web Development With Steph
 
-## Ep14: Style a Card Layout
+## Ep15: Browser Compatibility
 
-This directory is a reference for Episode 14. [**Watch the lesson now >**](https://youtu.be/WtQMRsYWgzM) or [review the article](https://dev.to/5t3ph/style-a-card-layout-with-css-23h).
+This directory is a reference for Episode 15. [**Watch the lesson now >**](https://youtu.be/YqNUfZAesOY) or [review the article](https://dev.to/5t3ph/intro-to-browser-compatibility-49bm).
 
 [**Subscribe for access to all video courses >**](https://www.youtube.com/channel/UC8qc2AyBbNmvgIky6236nHA/)
 

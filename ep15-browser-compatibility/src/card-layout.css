@@ -1,0 +1,48 @@
+.card-row {
+  display: grid;
+  grid-template-columns: repeat(3, 32%);
+  justify-content: space-between;
+}
+
+.card {
+  padding: 20px;
+  border: 1px solid #c9c9c9;
+  border-radius: 7px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.card > img:first-child {
+  border-radius: 7px 7px 0 0;
+  margin-bottom: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.card h3 {
+  color: rebeccapurple;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: start;
+}
+
+.card h3 em {
+  padding: 0.25em;
+  background-color: #eddbff;
+  border-radius: 4px;
+}
+
+.card p {
+  color: #757575;
+  line-height: 1.5;
+}
+
+.button {
+  /* Reset text link default */
+  text-decoration: none;
+
+  background-color: rebeccapurple;
+  color: #fff;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  display: inline-block;
+}

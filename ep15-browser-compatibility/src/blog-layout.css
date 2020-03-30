@@ -1,0 +1,18 @@
+p + h2 {
+  margin-top: 1.5em;
+}
+
+blockquote {
+  background: linear-gradient(45deg, #eddbff, transparent);
+  color: rebeccapurple;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 1em;
+  border-radius: 4px;
+}
+
+.img--align-left {
+  float: left; /* replaces the style previously inherited by the browser */
+  margin: 0 16px 16px -20px;
+  border-radius: 50%;
+}
