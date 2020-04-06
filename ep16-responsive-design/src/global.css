@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  color: #222;
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0 0 0.35em;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  margin: 0 0 1.15em;
+}
+
+.container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 24px;
+}
+
+header {
+  background-color: rebeccapurple;
+  color: #fff;
+}
+
+body > footer {
+  border-top: 2px solid rebeccapurple;
+}

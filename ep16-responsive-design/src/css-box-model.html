@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Website</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      /* Box Model */
+      body,
+      div {
+        padding: 20px;
+        border: 3px dotted blue;
+      }
+
+      div + div {
+        margin-top: 20px;
+      }
+
+      main,
+      main * {
+        outline: 1px solid red;
+        padding: 20px;
+      }
+
+      /* Block Elements */
+      div,
+      body {
+        outline: 1px solid red;
+      }
+
+      /* Inline Elements */
+      span {
+        outline: 1px solid green;
+        padding: 5px;
+        margin: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>CSS Box Model</h1>
+    <h2>Block Elements</h2>
+    <div>div</div>
+    <div>div</div>
+    <main>
+      <article>
+        <h2>Article Title</h2>
+        <p>Here's a super great article paragraph.</p>
+      </article>
+    </main>
+    <h2>Inline Elements</h2>
+    <span>span</span>
+    <span>span</span>
+    <span>span</span>
+    <strong>strong</strong>
+    <em>em</em>
+    <a href="#">link</a>
+  </body>
+</html>

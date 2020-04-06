@@ -1,0 +1,75 @@
+@media (min-width: 460px) {
+  .card-row {
+    display: grid;
+    grid-template-columns: 48% 48%;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-row {
+    grid-template-columns: 32% 32% 32%;
+  }
+}
+
+.card {
+  padding: 20px;
+  border: 1px solid #c9c9c9;
+  border-radius: 7px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.card > img:first-child {
+  border-radius: 7px 7px 0 0;
+  margin-bottom: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.card h3 {
+  color: rebeccapurple;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: start;
+}
+
+@media (max-width: 520px) {
+  .card h3 {
+    font-size: 18px;
+  }
+}
+
+.card h3 em {
+  padding: 0.25em;
+  /* pale purple used for blog blockquote */
+  background-color: #eddbff;
+  border-radius: 4px;
+}
+
+.card p {
+  color: #757575; /* Lightest grey with 4.5:1 contrast over white */
+  line-height: 1.5; /* Space between lines of the paragraph */
+}
+
+.button {
+  /* Reset text link default */
+  text-decoration: none;
+
+  background-color: rebeccapurple;
+  color: #fff; /* white */
+  padding: 0.5em 1em; /* vertical | horizontal */
+  border-radius: 4px;
+  display: inline-block;
+}
+
+@media (max-width: 460px) {
+  .m-t-xs {
+    margin-top: 24px;
+  }
+}
+
+@media (min-width: 460px) and (max-width: 768px) {
+  .m-t-sm {
+    margin-top: 24px;
+  }
+}

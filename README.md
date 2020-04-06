@@ -67,7 +67,7 @@ _Subject to change slightly as videos are recorded_
 
 15. [CSS Basics #7: Browser Compatibility](https://youtu.be/YqNUfZAesOY)
 
-16. CSS Basics #8: Responsive Design
+16. [CSS Basics #8: Responsive Design](https://youtu.be/y_SX7m5NAM4)
 
 ### Capstone Website Project: Unicorn Space Tours
 
